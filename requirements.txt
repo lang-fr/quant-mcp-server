@@ -1,0 +1,8 @@
+mcp[cli]>=1.8.0
+starlette
+uvicorn
+ccxt
+yfinance
+cot_reports
+requests
+pandas
